@@ -1,0 +1,1 @@
+This folder is for the documentation of the project. In this we will have all ppts, designs and all the necessary documentation. 

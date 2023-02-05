@@ -1,0 +1,1 @@
+In this folder we will test and create demos of our ideas. We will practice everything in this folder, before finally implementing it.

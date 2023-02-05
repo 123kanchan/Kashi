@@ -1,0 +1,2 @@
+This folder is for the content which will be used as a course or learning material for this project. 
+We will be putting all the reading material and technical content which can be used later also for reference.

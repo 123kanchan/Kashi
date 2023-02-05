@@ -1,0 +1,1 @@
+This folder is for the source code of our project. In this folder we will only have the code and implementation of the idea that is Kashi.
